@@ -40,8 +40,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Program:
 ```
-Developed by: PIRITHARAMAN R
-RegisterNumber: 212223230148
+Developed by: Ramya P
+RegisterNumber: 212223230168
 ```
 
     import pandas as pd
